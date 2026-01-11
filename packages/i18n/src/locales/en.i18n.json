@@ -7084,5 +7084,21 @@
   "timestamps.fullDateTimeLongDescription": "Thursday, December 31, 2020 12:00:00 AM",
   "__username__profile_picture": "{{username}}'s profile picture",
   "User_card": "User card",
-  "timestamps.relativeTimeDescription": "1 year ago"
+  "timestamps.relativeTimeDescription": "1 year ago",
+  "Export_E2EE_Key": "Export E2E Key",
+  "Export_E2EE_Key_description": "Export your E2E private key to import it on another device.",
+  "Export_E2EE_Key_warning": "Warning: Do not share this key. Anyone with this key can read your encrypted messages.",
+  "Copy_Key": "Copy Key",
+  "Hide_Key": "Hide Key",
+  "Show_Key": "Show Key",
+  "No_e2e_key_found": "No E2E key found.",
+  "Copied_to_clipboard": "Copied to clipboard",
+  "Import_E2EE_Key": "Import E2E Key",
+  "Import_Key": "Import Key",
+  "Scan_QR_Code": "Scan QR Code",
+  "Enter_your_key_manually": "Enter your key manually",
+  "Key_imported_successfully": "Key imported successfully",
+  "Invalid_key": "Invalid key",
+  "Or": "Or",
+  "Stop_Scanning": "Stop Scanning"
 }
